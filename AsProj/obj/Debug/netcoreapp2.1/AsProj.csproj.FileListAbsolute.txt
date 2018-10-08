@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\bin\Debug\netcoreapp2.1\AsProj.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\bin\Debug\netcoreapp2.1\AsProj.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\bin\Debug\netcoreapp2.1\AsProj.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\bin\Debug\netcoreapp2.1\AsProj.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\bin\Debug\netcoreapp2.1\AsProj.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\AsProj\obj\Debug\netcoreapp2.1\AsProj.pdb
