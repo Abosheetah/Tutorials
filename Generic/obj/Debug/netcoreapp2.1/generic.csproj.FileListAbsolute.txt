@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\bin\Debug\netcoreapp2.1\generic.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\bin\Debug\netcoreapp2.1\generic.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\bin\Debug\netcoreapp2.1\generic.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\bin\Debug\netcoreapp2.1\generic.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\bin\Debug\netcoreapp2.1\generic.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\generic\obj\Debug\netcoreapp2.1\generic.pdb
