@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\bin\Debug\netcoreapp2.1\FunAndAction.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\bin\Debug\netcoreapp2.1\FunAndAction.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\bin\Debug\netcoreapp2.1\FunAndAction.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\bin\Debug\netcoreapp2.1\FunAndAction.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\bin\Debug\netcoreapp2.1\FunAndAction.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction\obj\Debug\netcoreapp2.1\FunAndAction.pdb
