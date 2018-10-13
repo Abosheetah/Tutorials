@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\bin\Debug\netcoreapp2.1\MulticastDeleget.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\bin\Debug\netcoreapp2.1\MulticastDeleget.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\bin\Debug\netcoreapp2.1\MulticastDeleget.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\bin\Debug\netcoreapp2.1\MulticastDeleget.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\bin\Debug\netcoreapp2.1\MulticastDeleget.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\MulticastDeleget\obj\Debug\netcoreapp2.1\MulticastDeleget.pdb
