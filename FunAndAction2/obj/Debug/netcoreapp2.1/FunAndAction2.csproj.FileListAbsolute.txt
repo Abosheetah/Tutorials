@@ -1,0 +1,4 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction2\obj\Debug\netcoreapp2.1\FunAndAction2.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction2\obj\Debug\netcoreapp2.1\FunAndAction2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction2\obj\Debug\netcoreapp2.1\FunAndAction2.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction2\obj\Debug\netcoreapp2.1\FunAndAction2.AssemblyInfo.cs

@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\bin\Debug\netcoreapp2.1\deleget.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\bin\Debug\netcoreapp2.1\deleget.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\bin\Debug\netcoreapp2.1\deleget.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\bin\Debug\netcoreapp2.1\deleget.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\bin\Debug\netcoreapp2.1\deleget.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\deleget\obj\Debug\netcoreapp2.1\deleget.pdb
