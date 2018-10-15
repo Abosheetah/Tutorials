@@ -1,0 +1,15 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread\obj\Debug\netcoreapp2.1\Thread.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread\obj\Debug\netcoreapp2.1\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread\obj\Debug\netcoreapp2.1\Thread.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread\obj\Debug\netcoreapp2.1\Thread.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\bin\Debug\netcoreapp2.1\Thread.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\bin\Debug\netcoreapp2.1\Thread.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\bin\Debug\netcoreapp2.1\Thread.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\bin\Debug\netcoreapp2.1\Thread.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\bin\Debug\netcoreapp2.1\Thread.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\Thread_App\obj\Debug\netcoreapp2.1\Thread.pdb

@@ -19,8 +19,16 @@ namespace generic
             Console.WriteLine(arr.GetByIndex(2));
             Console.WriteLine(arr2.GetByIndex(1));
 
+
+
+            //another example 
+            bool boolResult = GenericClass.AreEqual<int>(15,16);
+            Console.WriteLine(boolResult);
             Console.ReadLine();
         }
+
+
+        
     }
 
 
@@ -39,6 +47,13 @@ namespace generic
 
         public T GetByIndex(int index){
             return priArr[index];
+        }
+    }
+
+
+    public static class GenericClass{
+        public static bool AreEqual<T>(T value1,T value2){
+            return value1.Equals(value2);
         }
     }
 }
