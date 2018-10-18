@@ -7,7 +7,7 @@ namespace AsProj
         static void Main(string[] args)
         {
             int x = 200;
-            byte? y = x as byte?;
+            byte? y = x as byte? ;
             Console.WriteLine(y.HasValue);
         }
     }

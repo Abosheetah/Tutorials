@@ -1,0 +1,4 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\SyncAwait\obj\Debug\netcoreapp2.1\SyncAwait.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\SyncAwait\obj\Debug\netcoreapp2.1\SyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\SyncAwait\obj\Debug\netcoreapp2.1\SyncAwait.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\SyncAwait\obj\Debug\netcoreapp2.1\SyncAwait.AssemblyInfo.cs

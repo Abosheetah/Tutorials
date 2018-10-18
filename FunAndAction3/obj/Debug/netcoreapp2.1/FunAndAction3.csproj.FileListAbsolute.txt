@@ -1,0 +1,11 @@
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\bin\Debug\netcoreapp2.1\FunAndAction3.deps.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\bin\Debug\netcoreapp2.1\FunAndAction3.runtimeconfig.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\bin\Debug\netcoreapp2.1\FunAndAction3.runtimeconfig.dev.json
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\bin\Debug\netcoreapp2.1\FunAndAction3.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\bin\Debug\netcoreapp2.1\FunAndAction3.pdb
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.csprojAssemblyReference.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.AssemblyInfoInputs.cache
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.AssemblyInfo.cs
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.dll
+C:\Users\Muhammad\Desktop\test\Tutorials\FunAndAction3\obj\Debug\netcoreapp2.1\FunAndAction3.pdb
